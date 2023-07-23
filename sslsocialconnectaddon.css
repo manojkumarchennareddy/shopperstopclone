@@ -1,0 +1,18 @@
+
+nav ul.lvl1>li:first-child>div>a, ul.lvl2>li>div>a {
+    padding-left: 20px;
+}
+
+nav ul.lvl1>li>div>a {
+    text-transform: uppercase;
+    color: #333;
+    letter-spacing: .02em;
+}
+
+nav ul.lvl1>li>div>a, ul.lvl2>li>div>a {
+    font: 600 14px/16px Open Sans;
+    color: #6e7379;
+    border-bottom: 2px solid transparent;
+    padding: 18px 30px 14px;
+    display: block;
+}
